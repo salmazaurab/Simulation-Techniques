@@ -1,2 +1,2 @@
-# Simulation-Techniques
+# Simulation Techniques
 ANALYSIS OF QUEUE SYSTEM AND SERVICE OF GOR UNAIR C CAFETERIA
